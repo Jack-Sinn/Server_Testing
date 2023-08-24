@@ -1,0 +1,11 @@
+*{font-family: Arial, Helvetica, sans-serif;}
+#topdiv{
+    display: flex;
+    flex-direction: column;
+    border: .8em dashed darkblue;
+}
+#topdiv li{
+    list-style: square;
+    border:1px dashed blue;
+    margin: 2px;
+}
